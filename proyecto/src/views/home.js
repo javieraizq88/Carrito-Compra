@@ -100,6 +100,14 @@ const Home = props => {
                                             {store.product.IPhone}
                                         </ol>
                                     </ul>
+                                    <button
+                                        type="button"
+                                        id="pagar"
+                                        className="btn btn-danger "
+                                        src="#"
+                                    >
+                                        Pagar
+                                        </button>
                                 </div>
                         }
 
