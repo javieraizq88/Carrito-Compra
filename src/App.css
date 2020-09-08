@@ -1,0 +1,44 @@
+*{
+  margin-top: 5px;
+}
+
+#selection{
+  margin-top: 40px;
+}
+
+form{
+  margin-top: 30px;
+}
+
+#alert,
+#add{
+  margin: 20px;
+}
+
+.card-header{
+  margin-top: 15px;
+  border: solid 0.5px grey;
+  text-align: center;
+}
+
+#descripcion{
+  height: 80px;
+}
+
+#compras{
+  position: fixed;
+  margin-left: 60%;
+  margin-top: 2%;
+  border: 1px solid black;
+  padding-bottom: 20px;
+  background-color: rgb(189, 206, 236);
+}
+
+#compras h3{
+  padding-top: 10px;
+  text-align: center;
+}
+
+#pagar{
+  margin-left: 70%;
+}
