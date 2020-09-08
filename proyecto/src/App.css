@@ -1,5 +1,5 @@
 *{
-  margin-top:5px;
+  margin-top: 5px;
 }
 
 #selection{
@@ -14,9 +14,6 @@ form{
 #add{
   margin: 20px;
 }
-.card-body{
-  text-align: center;
-}
 
 .card-header{
   margin-top: 15px;
@@ -24,8 +21,20 @@ form{
   text-align: center;
 }
 
-img{
-  justify-content: center;
-  width: 200px !important;
-  height: 150px;
+#descripcion{
+  height: 80px;
+}
+
+#compras{
+  position: fixed;
+  margin-left: 60%;
+  margin-top: 2%;
+  border: 1px solid black;
+  padding-bottom: 20px;
+  background-color: rgb(189, 206, 236);
+}
+
+#compras h3{
+  padding-top: 10px;
+  text-align: center;
 }
