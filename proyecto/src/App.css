@@ -15,9 +15,17 @@ form{
   margin: 20px;
 }
 .card-body{
-  margin-left: 28%;
+  text-align: center;
 }
 
-.inferior{
-  
+.card-header{
+  margin-top: 15px;
+  border: solid 0.5px grey;
+  text-align: center;
+}
+
+img{
+  justify-content: center;
+  width: 200px !important;
+  height: 150px;
 }
